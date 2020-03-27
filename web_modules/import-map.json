@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "bmi": "./bmi.js",
+    "finance": "./finance.js"
+  }
+}
